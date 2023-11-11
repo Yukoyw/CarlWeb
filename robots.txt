@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Yukoyw.github.io/CarlWeb/sitemap.xml
+Sitemap: https://yukoyw.github.io/sitemap.xml
